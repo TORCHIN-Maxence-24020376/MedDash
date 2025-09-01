@@ -2,7 +2,7 @@
   const START_HOUR = 7;
   const END_HOUR   = 20;
   const PX_PER_MIN = 1.2;
-  const ICS_URL    = "/edt.ics";
+  const ICS_URL    = "edt.ics";
   const VIEW_MODE  = "auto";
   let weekOffset = 0;
 
@@ -83,7 +83,7 @@
         alignItems:"center", justifyContent:"center"
       });
       const img = document.createElement("img");
-      img.src = iconPath;                          // ex: "/img/prev.svg"
+      img.src = iconPath;                          // ex: "img/prev.svg"
       img.alt = label;
       img.width = 20; img.height = 20;             // ajuste si besoin
       img.style.display = "block";
@@ -96,9 +96,9 @@
       return btn;
     };
 
-    const prev = mkBtn("/img/prev.svg",  "Semaine précédente", ()=>{ weekOffset--; loadAndRender(); });
-    const today= mkBtn("/img/today.svg", "Aujourd’hui",         ()=>{ weekOffset=0;  loadAndRender(); });
-    const next = mkBtn("/img/next.svg",  "Semaine suivante",    ()=>{ weekOffset++; loadAndRender(); });
+    const prev = mkBtn("img/prev.svg",  "Semaine précédente", ()=>{ weekOffset--; loadAndRender(); });
+    const today= mkBtn("img/today.svg", "Aujourd’hui",         ()=>{ weekOffset=0;  loadAndRender(); });
+    const next = mkBtn("img/next.svg",  "Semaine suivante",    ()=>{ weekOffset++; loadAndRender(); });
 
     left.append(prev, today, next);
 
