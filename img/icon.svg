@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1aa3b0"/>
+      <stop offset="1" stop-color="#0b5fa5"/>
+    </linearGradient>
+  </defs>
+  <!-- fond -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#g)"/>
+  <!-- croix médicale -->
+  <g fill="#fff">
+    <rect x="28" y="16" width="8" height="32" rx="2"/>
+    <rect x="16" y="28" width="32" height="8" rx="2"/>
+  </g>
+  <!-- pastille calendrier en coin -->
+  <g transform="translate(40,40)">
+    <rect x="-8" y="-8" width="16" height="16" rx="3" fill="#fff" opacity="0.9"/>
+    <rect x="-8" y="-8" width="16" height="4" rx="3" fill="#0b5fa5"/>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+/* Background 
+Ce backgruond est une animation de fond qui se déplace et qui crée un effet de mouvement.
+Il est composé de deux parties :
+- Une partie qui se déplace vers la droite
+- Une partie qui se déplace vers la gauche
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #000; /* fond noir */
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at 50% 50%, rgba(0, 140, 255, 0.4), transparent 70%) repeat;
+  animation: moveWaves 12s ease-in-out infinite;
+  background-size: 60% 60%;
+  filter: blur(80px);
+  opacity: 0.6;
+  z-index: -1;
+}
+
+@keyframes moveWaves {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  50% {
+    transform: translate(10%, 10%) rotate(180deg);
+  }
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at 20% 80%, rgba(0, 217, 255, 0.4), transparent 70%) repeat;
+  animation: moveWaves2 15s ease-in-out infinite;
+  background-size: 50% 50%;
+  filter: blur(100px);
+  opacity: 0.5;
+  z-index: -1;
+}
+
+@keyframes moveWaves2 {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  50% {
+    transform: translate(-10%, -15%) rotate(-180deg);
+  }
+}

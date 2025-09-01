@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Amétice",
+    "link": "https://ametice.univ-amu.fr/",
+    "tags": ["amu","ametice","plateforme","cours"],
+    "logo": "ametice.svg",
+    "description_long": "Plateforme pédagogique Amétice de l’Université d’Aix-Marseille : supports de cours, exercices et ressources complémentaires.",
+    "description_small": "Cours AMU"
+  },
+  {
+    "title": "Anki",
+    "link": "https://apps.ankiweb.net/",
+    "tags": ["révision","flashcards","mémoire"],
+    "logo": "anki.svg",
+    "description_long": "Outil de flashcards basé sur la répétition espacée pour mémoriser formules, réactions et définitions.",
+    "description_small": "Flashcards de révision"
+  },
+  {
+    "title": "Bibliothèque AMU",
+    "link": "https://bu.univ-amu.fr/",
+    "tags": ["amu","bu","bibliothèque","livres","revues"],
+    "logo": "books.svg",
+    "description_long": "Accès aux bibliothèques universitaires d’AMU : emprunts, ressources numériques, bases de données scientifiques.",
+    "description_small": "Livres & bases de données"
+  },
+  {
+    "title": "ChemSpider",
+    "link": "http://www.chemspider.com/",
+    "tags": ["chimie","molécules","sciences"],
+    "logo": "chemistry.svg",
+    "description_long": "Base de données de millions de structures chimiques et propriétés associées.",
+    "description_small": "Base molécules"
+  },
+  {
+    "title": "ChatGPT",
+    "link": "https://chatgpt.com",
+    "tags": ["ia","chat","gpt","ai","clanka","clanker","robot"],
+    "logo": "openai.svg",
+    "description_long": "ChatGPT est une IA utile pour avoir des explications rapides, simuler un professeur particulier ou réviser plus efficacement.",
+    "description_small": "IA pour parler et aider"
+  },
+  {
+    "title": "Discord",
+    "link": "https://discord.com/",
+    "tags": ["chat","communauté","groupe","voix"],
+    "logo": "discord.svg",
+    "description_long": "Application de discussion en ligne : chat, groupes étudiants, entraide et communication vocale.",
+    "description_small": "Chat & entraide"
+  },
+  {
+    "title": "ENT AMU",
+    "link": "https://ent.univ-amu.fr/",
+    "tags": ["amu","ent","connexion","université"],
+    "logo": "ent.svg",
+    "description_long": "Portail numérique de l’Université d’Aix-Marseille, accès aux cours, emploi du temps, notes et services étudiants.",
+    "description_small": "Portail étudiant AMU"
+  },
+  {
+    "title": "Instagram",
+    "link": "https://www.instagram.com/",
+    "tags": ["réseaux","social","photo","partage"],
+    "logo": "instagram.svg",
+    "description_long": "Réseau social pour partager photos, stories et suivre des comptes utiles ou détente.",
+    "description_small": "Réseau social"
+  },
+  {
+    "title": "Khan Academy",
+    "link": "https://fr.khanacademy.org/science",
+    "tags": ["physique","chimie","maths","cours","exercices"],
+    "logo": "khan.svg",
+    "description_long": "Cours interactifs et exercices gratuits en physique, chimie, maths et plus encore.",
+    "description_small": "Cours gratuits"
+  },
+  {
+    "title": "Moodle AMU",
+    "link": "https://moodle.univ-amu.fr/",
+    "tags": ["amu","moodle","cours","plateforme"],
+    "logo": "moodle.svg",
+    "description_long": "Plateforme pédagogique AMU : supports de cours, devoirs en ligne, QCM et ressources des enseignants.",
+    "description_small": "Cours en ligne"
+  },
+  {
+    "title": "Overleaf",
+    "link": "https://www.overleaf.com/",
+    "tags": ["latex","rapport","mémoire","articles"],
+    "logo": "overleaf.svg",
+    "description_long": "Éditeur en ligne LaTeX pour rédiger rapports, comptes rendus et documents scientifiques.",
+    "description_small": "Éditeur LaTeX"
+  },
+  {
+    "title": "Physics LibreTexts",
+    "link": "https://phys.libretexts.org/",
+    "tags": ["physique","cours","ressources"],
+    "logo": "libretexts.svg",
+    "description_long": "Cours libres et ressources en physique, de la mécanique à la thermodynamique.",
+    "description_small": "Cours open-source"
+  },
+  {
+    "title": "PubMed",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/",
+    "tags": ["médecine","recherche","sciences","articles"],
+    "logo": "pubmed.svg",
+    "description_long": "Base de données mondiale des publications en sciences de la santé et biomédecine.",
+    "description_small": "Articles scientifiques"
+  },
+  {
+    "title": "Santé publique France",
+    "link": "https://santepubliquefrance.fr/",
+    "tags": ["santé","prévention","france","épidémiologie"],
+    "logo": "sante.svg",
+    "description_long": "Agence nationale de santé publique : veille sanitaire, statistiques, prévention et rapports officiels.",
+    "description_small": "Prévention & données santé"
+  },
+  {
+    "title": "Tableau Périodique",
+    "link": "https://ptable.com/?lang=fr",
+    "tags": ["chimie","éléments","périodique"],
+    "logo": "ptable.svg",
+    "description_long": "Tableau périodique interactif avec infos détaillées sur chaque élément chimique.",
+    "description_small": "Table périodique"
+  },
+  {
+    "title": "Wolfram Alpha",
+    "link": "https://www.wolframalpha.com/",
+    "tags": ["calcul","maths","physique","chimie"],
+    "logo": "wolfram.svg",
+    "description_long": "Moteur de calcul puissant pour résoudre équations, problèmes de chimie, conversions et graphiques.",
+    "description_small": "Résolveur scientifique"
+  },
+  {
+    "title": "Spotify",
+    "link": "https://www.spotify.com/",
+    "tags": ["musique","linkin","park","musique","chanson","song"],
+    "logo": "spotify.svg",
+    "description_long": "Pour que tu puisses écouter ta musiques sans soucis sans avoir l'appli d'installer (même si tu l'as déjà surement d'installer)",
+    "description_small": "Application de musique"
+  },
+  {
+    "title": "Notion",
+    "link": "https://www.notion.so/",
+    "tags": ["organisation","notes","planification","projets","productivité"],
+    "logo": "notion.svg",
+    "description_long": "Outil tout-en-un pour gérer ses cours, projets, notes et documents. Très pratique pour centraliser son organisation.",
+    "description_small": "Organisation & notes"
+  },
+  {
+    "title": "Google Docs",
+    "link": "https://docs.google.com/",
+    "tags": ["google","docs","texte","bureautique"],
+    "logo": "gdocs.svg",
+    "description_long": "Éditeur de texte en ligne collaboratif de Google, idéal pour rédiger et partager des documents.",
+    "description_small": "Traitement de texte"
+  },
+  {
+    "title": "Google Slides",
+    "link": "https://slides.google.com/",
+    "tags": ["google","slides","présentation","bureautique"],
+    "logo": "gslides.svg",
+    "description_long": "Service de création de présentations en ligne de Google, parfait pour exposés et diaporamas collaboratifs.",
+    "description_small": "Présentations"
+  },
+  {
+    "title": "Google Forms",
+    "link": "https://forms.google.com/",
+    "tags": ["google","forms","questionnaire","sondage"],
+    "logo": "gforms.svg",
+    "description_long": "Outil Google pour créer des formulaires, QCM ou enquêtes en ligne avec collecte automatique des réponses.",
+    "description_small": "Formulaires & sondages"
+  },
+  {
+    "title": "Google Sheets",
+    "link": "https://sheets.google.com/",
+    "tags": ["google","sheets","tableur","bureautique","excel"],
+    "logo": "gsheets.svg",
+    "description_long": "Tableur collaboratif en ligne de Google, utile pour gérer des données, faire des calculs et créer des graphiques.",
+    "description_small": "Tableur"
+  }  
+]
