@@ -17,7 +17,8 @@
     const PX_PER_MIN = 1.2;    // hauteur de 1 minute en pixels (1.2 -> 72px/heure)
   
     // === URL ICS directement déclarée ici ===
-    const ICS_URL = "edt.ics"; // <- tu modifies juste cette ligne si besoin
+    
+    const ICS_URL = 'https://raw.githubusercontent.com/TORCHIN-Maxence-24020376/EDT/main/edt_data/NICOLAS.ics';
   
     // === Mode d'affichage du jour ===
     // "auto"  : aujourd'hui, bascule au lendemain après 21h (prod)

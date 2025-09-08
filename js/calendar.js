@@ -2,7 +2,7 @@
   const START_HOUR = 7;
   const END_HOUR   = 20;
   const PX_PER_MIN = 1.2;
-  const ICS_URL    = "edt.ics";
+  const ICS_URL = 'https://raw.githubusercontent.com/TORCHIN-Maxence-24020376/EDT/main/edt_data/NICOLAS.ics';
   const VIEW_MODE  = "auto";
   let weekOffset = 0;
 
