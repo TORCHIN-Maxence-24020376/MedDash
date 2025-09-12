@@ -57,12 +57,14 @@
 .location{
     font-weight: bold;
     font-size: 0.8em;
+    color: orange;
 }
 
 .prof, .time{
     color: var(--less-important-text);
     font-style: italic;
     font-size: 0.8em;
+    color: aquamarine;
 }
 
 @media (max-width: 768px) {
